@@ -1,9 +1,20 @@
 {
-  "name": "github-user-widget",
+  "name": "github-user-widget-hector",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
     "proyecto-1b-api-github": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorInfoport/librerias-angular.git"
+  },
+  "keywords": [],
+  "author": "Héctor Bueno <hbueno@infoport.es",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HectorInfoport/librerias-angular/issues"
+  },
+  "homepage": "https://github.com/HectorInfoport/librerias-angular#readme"
 }
